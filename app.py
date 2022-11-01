@@ -12,7 +12,7 @@ def teste():
     return " <p>Testando 1</p>"
 
 def teste2():
-    return " <h1>Testando 2</h1>"
+    return " <h1>Testando 2</h1>
 
 
 app.add_url_rule("/teste", "teste", teste)
